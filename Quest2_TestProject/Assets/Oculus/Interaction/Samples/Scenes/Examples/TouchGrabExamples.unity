@@ -1392,7 +1392,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4919022601411988887, guid: d93b7e04b48cd7b4fa849695dba2ce9c, type: 3}
       propertyPath: _trackingOriginType
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5507516794983821682, guid: d93b7e04b48cd7b4fa849695dba2ce9c, type: 3}
       propertyPath: _interactors.Array.size
@@ -1428,7 +1428,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7681372687013864541, guid: d93b7e04b48cd7b4fa849695dba2ce9c, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.975
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7681372687013864541, guid: d93b7e04b48cd7b4fa849695dba2ce9c, type: 3}
       propertyPath: m_LocalPosition.z
