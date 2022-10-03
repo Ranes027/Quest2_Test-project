@@ -553,7 +553,6 @@ GameObject:
   - component: {fileID: 14457501551224427}
   - component: {fileID: 2870950533254615713}
   - component: {fileID: 3932784413529914255}
-  - component: {fileID: 758183152405065289}
   m_Layer: 0
   m_Name: LowPolyBasketballBall
   m_TagString: Untagged
@@ -640,26 +639,6 @@ MeshCollider:
   m_Convex: 1
   m_CookingOptions: 30
   m_Mesh: {fileID: 7238013119606728833, guid: cf79fc2bf2f8835448cd72f80a88ce3a, type: 3}
---- !u!114 &758183152405065289
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4384067581069472628}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d5e48d93b64a9ae4f9fd5a728c8f51af, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  _renderers:
-  - {fileID: 0}
-  _vectorProperties: []
-  _colorProperties:
-  - name: _Color
-    value: {r: 1, g: 0.8895351, b: 0, a: 1}
-  _floatProperties: []
-  _updateEveryFrame: 1
 --- !u!1 &4571232370871589615
 GameObject:
   m_ObjectHideFlags: 0
