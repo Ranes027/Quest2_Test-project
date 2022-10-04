@@ -35,6 +35,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/TouchGrabExamples[ver2].unity
+    guid: 3abe276a5db1ac943b2b7a7e304f4ef7
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: a80dd68ac6c26f548bcc56ecb01a3f30, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 79d825ebce90a78409cd0f8b35c0664d, type: 2}
