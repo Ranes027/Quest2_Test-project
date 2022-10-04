@@ -1058,7 +1058,7 @@ GameObject:
   - component: {fileID: 6363612163036274612}
   - component: {fileID: 9053830156755447958}
   m_Layer: 0
-  m_Name: BasketballBall
+  m_Name: BasketballBall [InteractableToHand]
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
