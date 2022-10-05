@@ -239,10 +239,7 @@ MonoBehaviour:
   _pointableElement: {fileID: 5609213098762003663}
   _boundsCollider: {fileID: 5609213098310235458}
   _colliders:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
+  - {fileID: 5609213098369512364}
 --- !u!54 &5609213098762003660
 Rigidbody:
   m_ObjectHideFlags: 0
